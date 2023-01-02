@@ -1,2 +1,2 @@
 # C-pwskills
-Solutions of assignments based C++ course provided by pwskills. 
+Solutions of assignments on C++ course provided by pwskills. 
